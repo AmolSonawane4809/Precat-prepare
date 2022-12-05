@@ -1,0 +1,36 @@
+
+Question 1:
+Write a class stack. Implement stack using array.
+Provide functions push,pop, isfull, isempty.
+In main create the objectof stack and invoke its method in menu driven way.
+
+--------------------------------------------------------
+
+Question 2:
+Alloctate memory dynamically for one dimensional and two dimensional array by using new operator
+
+-------------------------------------------------------
+Question 3:
+
+Update complex class , add static data member as count to store number of complex object created . Add static function to print count of objects 
+
+--------------------------------------------------------
+
+Question 4:
+Create class Chair having following members.
+data members:
+	int height
+	int weight
+	double price;
+	Color color (use enum for color)
+member functions
+	parameterless Constructor
+	parameterized constructor
+	Input function
+	Display function
+	SetPrice function(static)
+	Destructor
+Note: price must be shared by all the objects.
+
+-----------------------------------------------------------
+

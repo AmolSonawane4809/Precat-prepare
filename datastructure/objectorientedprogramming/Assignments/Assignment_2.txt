@@ -1,0 +1,23 @@
+
+Q1: Write a cpp program  having a employee cpp struct contains
+empID,empName,empSalary and two function AcceptData and 
+printDate . and call these function in main()
+
+
+Q2: 2> create TDate class having data member day ,month , year
+and following functions
+
+TDate();
+TDate(int day,int month,int year);
+AcceptDate();
+PrintDate_dd-mm-yyyy();    //Ex = 2-5-2022
+PrintDate_dd-month-yyyy(); //Ex = 2-May-2022
+bool ValidateDate();
+
+
+
+Q3: Write a class complex.
+Data member - real and imaginary
+add member function as Parameterless constructor , Parameterized constructor , accept complex number and print complex number.
+
+
